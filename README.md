@@ -7,7 +7,7 @@ The intent of this activity was to train a variety of skills in HTML, CSS, and G
 The activity involved refactoring the existing code for Horiseon's SEO website.  In order to complete this I had to refigure the navigation bar and shrink down the HTML and CSS code to adhere with agile standards as best as possible.
 
 ## Links
-https://github.com/Zmarenberg/Refactoring-SEO-Homework
+https://zander-m75.github.io/Module1-Refactor-HW/
 
 
 
